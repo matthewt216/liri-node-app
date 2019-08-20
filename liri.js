@@ -20,7 +20,9 @@ if (process.argv[2] === "concert-this"){
             command = command + process.argv[i] + " ";
         }
         fs.appendFile("log.txt", "node liri.js " + command + "\n", function(err, data){
-                
+                if (err){
+                    console.log("Error");
+                }
         })
         for (i = 0; i < response.data.length; i++){
             var date = moment(response.data[i].datetime).format("MM/DD/YYYY");
@@ -28,7 +30,9 @@ if (process.argv[2] === "concert-this"){
             console.log("The location of the venue is " + response.data[i].venue.city + ", " + response.data[i].venue.country + ".");
             console.log("The date of the event is " + date + "." + "\n");
             fs.appendFile("log.txt", "The venue is " + response.data[i].venue.name + "." + "\n" + "The location of the venue is " + response.data[i].venue.city + ", " + response.data[i].venue.country + "." + "\n" + "The date of the venue is " + date + "." + "\n\n", function(err, data){
-                
+                if (err){
+                    console.log("Error");
+                }
             })
         }
     }).catch(function(error) {
@@ -60,10 +64,14 @@ if (process.argv[2] === "spotify-this-song"){
             console.log("Preview link: " + data.tracks.items[4].preview_url);
             console.log("Album: " + data.tracks.items[4].album.name);
             fs.appendFile("log.txt", "node liri.js spotify-this-song \n", function(err, data){
-
+                if (err){
+                    console.log("Error");
+                }
             });
             fs.appendFile("log.txt", "Artist(s): " + data.tracks.items[4].artists[0].name + "\n" + "The song's name: " + data.tracks.items[4].name + "\n" + "Preview link: " + data.tracks.items[4].preview_url + "\n" + "Album: " + data.tracks.items[4].album.name + "\n\n", function(err, data){
-
+                if (err){
+                    console.log("Error");
+                }
             })
         })
     }
@@ -73,7 +81,9 @@ if (process.argv[2] === "spotify-this-song"){
             command = command + process.argv[i] + " ";
         }
         fs.appendFile("log.txt", "node liri.js spotify-this-song " + command + "\n", function(err, data){
-
+            if (err){
+                console.log("Error");
+            }
         })
         var randomnumber = Math.floor(Math.random() * data.tracks.items.length);
         console.log("Artist(s): " + data.tracks.items[randomnumber].artists[0].name);
@@ -81,7 +91,9 @@ if (process.argv[2] === "spotify-this-song"){
         console.log("Preview link: " + data.tracks.items[randomnumber].preview_url);
         console.log("Album: " + data.tracks.items[randomnumber].album.name);
         fs.appendFile("log.txt", "Artist(s): " + data.tracks.items[randomnumber].artists[0].name + "\n" + "The song's name: " + data.tracks.items[randomnumber].name + "\n" + "Preview link: " + data.tracks.items[randomnumber].preview_url + "\n" + "Album: " + data.tracks.items[randomnumber].album.name + "\n\n", function(err, data){
-
+            if (err){
+                console.log("Error");
+            }
         })
     })
 }
@@ -91,7 +103,9 @@ if (process.argv[2] === "movie-this"){
         axios.get("http://www.omdbapi.com/?t=Mr.Nobody&y=&plot=short&apikey=trilogy")
             .then(function(response){
         fs.appendFile("log.txt", "node liri.js movie-this" + "\n", function(err, data){
-
+            if (err){
+                console.log("Error");
+            }
         })
         var rotten = false;
         console.log("Title: " + response.data.Title);
@@ -112,7 +126,9 @@ if (process.argv[2] === "movie-this"){
         console.log("Plot: " + response.data.Plot);
         console.log("Actors: " + response.data.Actors);
         fs.appendFile("log.txt", "Title: " + response.data.Title + "\n" + "Year: " + response.data.Year + "\n" + "imdb Rating: " + response.data.imdbRating + "\n" + "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n" + "Country: " + response.data.Country + "\n" + "Language: " + response.data.Language + "\n" + "Plot: " + response.data.Plot + "\n" + "Actors: " + response.data.Actors + "\n\n", function(err, data){
-
+            if (err){
+                console.log("Error");
+            }
         })
     }).catch(function(error) {
         if (error.response) {
@@ -139,7 +155,9 @@ if (process.argv[2] === "movie-this"){
     axios.get("http://www.omdbapi.com/?t=" + search + "&y=&plot=short&apikey=trilogy")
     .then(function(response){
         fs.appendFile("log.txt", "node liri.js movie-this " + search + "\n", function(err, data){
-
+            if (err){
+                console.log("Error");
+            }
         });
         rotten = false;
         console.log("Title: " + response.data.Title);
@@ -166,7 +184,9 @@ if (process.argv[2] === "movie-this"){
             response = "Title: " + response.data.Title + "\n" + "Year: " + response.data.Year + "\n" + "imdb Rating: " + response.data.imdbRating + "\n" + "Rotten Tomatoes Rating: N/A" + "\n" + "Country: " + response.data.Country + "\n" + "Language: " + response.data.Language + "\n" + "Plot: " + response.data.Plot + "\n" + "Actors: " + response.data.Actors + "\n\n"
         }
         fs.appendFile("log.txt", response, function(err, data){
-    
+            if (err){
+                console.log("Error");
+            }
         })
     }).catch(function(error) {
         if (error.response) {
@@ -192,9 +212,14 @@ if (process.argv[2] === "movie-this"){
 }
 if (process.argv[2] === "do-what-it-says"){
     fs.appendFile("log.txt", "node liri.js do-what-it-says" + "\n", function(err, data){
-
+        if (err){
+            console.log("Error");
+        }
     })
     fs.readFile("random.txt", "utf-8", function(err, data){
+        if (err){
+            console.log("Error");
+        }
         var command = data.split(",");
         if (command[0] === "spotify-this-song"){
             if (command.length === 1){
@@ -204,7 +229,9 @@ if (process.argv[2] === "do-what-it-says"){
                     console.log("Preview link: " + data.tracks.items[4].preview_url);
                     console.log("Album: " + data.tracks.items[4].album.name);
                     fs.appendFile("log.txt", "Artist(s): " + data.tracks.items[4].artists[0].name + "\n" + "The song's name: " + data.tracks.items[4].name + "\n" + "Preview link: " + data.tracks.items[4].preview_url + "\n" + "Album: " + data.tracks.items[4].album.name + "\n\n", function(err, data){
-        
+                        if (err){
+                            console.log("Error");
+                        }
                     })
                 })
             }
@@ -216,7 +243,9 @@ if (process.argv[2] === "do-what-it-says"){
                 console.log("Preview link: " + data.tracks.items[randomnumber].preview_url);
                 console.log("Album: " + data.tracks.items[randomnumber].album.name);
                 fs.appendFile("log.txt", "Artist(s): " + data.tracks.items[randomnumber].artists[0].name + "\n" + "The song's name: " + data.tracks.items[randomnumber].name + "\n" + "Preview link: " + data.tracks.items[randomnumber].preview_url + "\n" + "Album: " + data.tracks.items[randomnumber].album.name + "\n\n", function(err, data){
-
+                    if (err){
+                        console.log("Error");
+                    }
                 })
             })
         }
@@ -244,7 +273,9 @@ if (process.argv[2] === "do-what-it-says"){
         console.log("Plot: " + response.data.Plot);
         console.log("Actors: " + response.data.Actors);
         fs.appendFile("log.txt", "Title: " + response.data.Title + "\n" + "Year: " + response.data.Year + "\n" + "imdb Rating: " + response.data.imdbRating + "\n" + "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n" + "Country: " + response.data.Country + "\n" + "Language: " + response.data.Language + "\n" + "Plot: " + response.data.Plot + "\n" + "Actors: " + response.data.Actors + "\n\n", function(err, data){
-
+            if (err){
+                console.log("Error");
+            }
         })
     }).catch(function(error) {
         if (error.response) {
@@ -295,7 +326,9 @@ if (process.argv[2] === "do-what-it-says"){
                 response = "Title: " + response.data.Title + "\n" + "Year: " + response.data.Year + "\n" + "imdb Rating: " + response.data.imdbRating + "\n" + "Rotten Tomatoes Rating: N/A" + "\n" + "Country: " + response.data.Country + "\n" + "Language: " + response.data.Language + "\n" + "Plot: " + response.data.Plot + "\n" + "Actors: " + response.data.Actors + "\n\n"
             }
             fs.appendFile("log.txt", response, function(err, data){
-        
+                if (err){
+                    console.log("Error");
+                }
             })
                 }).catch(function(error) {
                     if (error.response) {
@@ -328,7 +361,9 @@ if (process.argv[2] === "do-what-it-says"){
                 console.log("The location of the venue is " + response.data[i].venue.city+ ", " + response.data[i].venue.country + ".");
                 console.log("The date of the event is " + date + ".\n");
                 fs.appendFile("log.txt", "The venue is " + response.data[i].venue.name + "." + "\n" + "The location of the venue is " + response.data[i].venue.city + ", " + response.data[i].venue.country + "." + "\n" + "The date of the venue is " + date + "." + "\n\n", function(err, data){
-                
+                    if (err){
+                        console.log("Error");
+                    }
                 })
                 }
             

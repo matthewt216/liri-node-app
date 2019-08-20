@@ -1881,3 +1881,15 @@ Language: N/A
 Plot: The Stoneman family finds its friendship with the Camerons affected by the Civil War, both fighting in opposite armies. The development of the war in their lives plays through to Lincoln's assassination and the birth of the Ku Klux Klan.
 Actors: Henry B. Walthall, Lillian Gish, Mae Marsh, Miriam Cooper
 
+node liri.js spotify-this-song biever 
+Artist(s): Biever Boys
+The song's name: Whoa
+Preview link: https://p.scdn.co/mp3-preview/245f65c095b9917407e50bb2e2be2d9778665808?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Biever Boys
+
+node liri.js do-what-it-says
+Artist(s): Kid Ink
+The song's name: Hello World
+Preview link: https://p.scdn.co/mp3-preview/070f8cdb5e0e621a63960dc960069952211d8049?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: My Own Lane (Expanded Edition)
+
