@@ -31,7 +31,26 @@ if (process.argv[2] === "concert-this"){
                 
             })
         }
-    });
+    }).catch(function(error) {
+        if (error.response) {
+          // The request was made and the server responded with a status code
+          // that falls out of the range of 2xx
+          console.log("---------------Data---------------");
+          console.log(error.response.data);
+          console.log("---------------Status---------------");
+          console.log(error.response.status);
+          console.log("---------------Status---------------");
+          console.log(error.response.headers);
+        } else if (error.request) {
+          // The request was made but no response was received
+          // `error.request` is an object that comes back with details pertaining to the error that occurred.
+          console.log(error.request);
+        } else {
+          // Something happened in setting up the request that triggered an Error
+          console.log("Error", error.message);
+        }
+        console.log(error.config);
+      });
 }
 if (process.argv[2] === "spotify-this-song"){
     if (process.argv.length === 3){
@@ -95,7 +114,26 @@ if (process.argv[2] === "movie-this"){
         fs.appendFile("log.txt", "Title: " + response.data.Title + "\n" + "Year: " + response.data.Year + "\n" + "imdb Rating: " + response.data.imdbRating + "\n" + "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n" + "Country: " + response.data.Country + "\n" + "Language: " + response.data.Language + "\n" + "Plot: " + response.data.Plot + "\n" + "Actors: " + response.data.Actors + "\n\n", function(err, data){
 
         })
-    });
+    }).catch(function(error) {
+        if (error.response) {
+          // The request was made and the server responded with a status code
+          // that falls out of the range of 2xx
+          console.log("---------------Data---------------");
+          console.log(error.response.data);
+          console.log("---------------Status---------------");
+          console.log(error.response.status);
+          console.log("---------------Status---------------");
+          console.log(error.response.headers);
+        } else if (error.request) {
+          // The request was made but no response was received
+          // `error.request` is an object that comes back with details pertaining to the error that occurred.
+          console.log(error.request);
+        } else {
+          // Something happened in setting up the request that triggered an Error
+          console.log("Error", error.message);
+        }
+        console.log(error.config);
+      });
     }
     else{
     axios.get("http://www.omdbapi.com/?t=" + search + "&y=&plot=short&apikey=trilogy")
@@ -130,7 +168,26 @@ if (process.argv[2] === "movie-this"){
         fs.appendFile("log.txt", response, function(err, data){
     
         })
-    })
+    }).catch(function(error) {
+        if (error.response) {
+          // The request was made and the server responded with a status code
+          // that falls out of the range of 2xx
+          console.log("---------------Data---------------");
+          console.log(error.response.data);
+          console.log("---------------Status---------------");
+          console.log(error.response.status);
+          console.log("---------------Status---------------");
+          console.log(error.response.headers);
+        } else if (error.request) {
+          // The request was made but no response was received
+          // `error.request` is an object that comes back with details pertaining to the error that occurred.
+          console.log(error.request);
+        } else {
+          // Something happened in setting up the request that triggered an Error
+          console.log("Error", error.message);
+        }
+        console.log(error.config);
+      });
 }
 }
 if (process.argv[2] === "do-what-it-says"){
@@ -189,7 +246,26 @@ if (process.argv[2] === "do-what-it-says"){
         fs.appendFile("log.txt", "Title: " + response.data.Title + "\n" + "Year: " + response.data.Year + "\n" + "imdb Rating: " + response.data.imdbRating + "\n" + "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n" + "Country: " + response.data.Country + "\n" + "Language: " + response.data.Language + "\n" + "Plot: " + response.data.Plot + "\n" + "Actors: " + response.data.Actors + "\n\n", function(err, data){
 
         })
-    });
+    }).catch(function(error) {
+        if (error.response) {
+          // The request was made and the server responded with a status code
+          // that falls out of the range of 2xx
+          console.log("---------------Data---------------");
+          console.log(error.response.data);
+          console.log("---------------Status---------------");
+          console.log(error.response.status);
+          console.log("---------------Status---------------");
+          console.log(error.response.headers);
+        } else if (error.request) {
+          // The request was made but no response was received
+          // `error.request` is an object that comes back with details pertaining to the error that occurred.
+          console.log(error.request);
+        } else {
+          // Something happened in setting up the request that triggered an Error
+          console.log("Error", error.message);
+        }
+        console.log(error.config);
+      });
             }
             else{
             axios.get("http://www.omdbapi.com/?t=" + command[1].trim() + "&y=&plot=short&apikey=trilogy")
@@ -221,7 +297,26 @@ if (process.argv[2] === "do-what-it-says"){
             fs.appendFile("log.txt", response, function(err, data){
         
             })
-                });
+                }).catch(function(error) {
+                    if (error.response) {
+                      // The request was made and the server responded with a status code
+                      // that falls out of the range of 2xx
+                      console.log("---------------Data---------------");
+                      console.log(error.response.data);
+                      console.log("---------------Status---------------");
+                      console.log(error.response.status);
+                      console.log("---------------Status---------------");
+                      console.log(error.response.headers);
+                    } else if (error.request) {
+                      // The request was made but no response was received
+                      // `error.request` is an object that comes back with details pertaining to the error that occurred.
+                      console.log(error.request);
+                    } else {
+                      // Something happened in setting up the request that triggered an Error
+                      console.log("Error", error.message);
+                    }
+                    console.log(error.config);
+                  });
             }
             }
         if (command[0] === "concert-this"){
@@ -237,7 +332,26 @@ if (process.argv[2] === "do-what-it-says"){
                 })
                 }
             
-            })
+            }).catch(function(error) {
+                if (error.response) {
+                  // The request was made and the server responded with a status code
+                  // that falls out of the range of 2xx
+                  console.log("---------------Data---------------");
+                  console.log(error.response.data);
+                  console.log("---------------Status---------------");
+                  console.log(error.response.status);
+                  console.log("---------------Status---------------");
+                  console.log(error.response.headers);
+                } else if (error.request) {
+                  // The request was made but no response was received
+                  // `error.request` is an object that comes back with details pertaining to the error that occurred.
+                  console.log(error.request);
+                } else {
+                  // Something happened in setting up the request that triggered an Error
+                  console.log("Error", error.message);
+                }
+                console.log(error.config);
+              });
         }
     });
 }

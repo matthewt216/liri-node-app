@@ -62,3 +62,1822 @@ The song's name: Face Fisted
 Preview link: https://p.scdn.co/mp3-preview/d46975469543fcd8c0d164378f6940ecfd6477ec?cid=fcdfd4553f0d4f7baf813cb1be33d054
 Album: The Dethalbum
 
+node liri.js spotify-this-song rachmaninoff 
+Artist(s): Sergei Rachmaninoff
+The song's name: Piano Concerto No. 2 in C Minor, Op. 18: II. Adagio sostenuto
+Preview link: https://p.scdn.co/mp3-preview/97db90926e8f531fe535674d62ebb0b901e30887?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Rachmaninov: Piano Concertos Nos. 1-4 / Rhapsody On A Theme of Paganini
+
+node liri.js spotify-this-song rachmaninoff 
+Artist(s): Sergei Rachmaninoff
+The song's name: Piano Concerto No. 2 in C Minor, Op. 18: I. Moderato
+Preview link: https://p.scdn.co/mp3-preview/0cd8b2dc1f7023f5796870ca6a746425b57031ab?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Rachmaninoff: Piano Concerto No. 2 in C Minor, Op. 18 & Piano Concerto No. 3 in D Minor, Op. 30
+
+node liri.js spotify-this-song rachmaninoff 
+Artist(s): Sergei Rachmaninoff
+The song's name: Piano Concerto No. 2 in C Minor, Op. 18: I. Moderato
+Preview link: https://p.scdn.co/mp3-preview/0cd8b2dc1f7023f5796870ca6a746425b57031ab?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Rachmaninoff: Piano Concerto No. 2 in C Minor, Op. 18 & Piano Concerto No. 3 in D Minor, Op. 30
+
+node liri.js spotify-this-song beethoven 
+Artist(s): Ludwig van Beethoven
+The song's name: Violin Sonata No. 9 in A Major, Op. 47 "Kreutzer": III. Finale. Presto
+Preview link: https://p.scdn.co/mp3-preview/be1849e6010a813ca95678e5802f6add91c80306?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Vibrant Violin
+
+node liri.js spotify-this-song beethoven symphony 
+Artist(s): Smart Baby Lullaby
+The song's name: Surprise Symphony
+Preview link: https://p.scdn.co/mp3-preview/728ae01055e1d0703282c53842c833d074d17af2?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Bach, Beethoven and Baby: the Most Essential Classical Music for Your Baby
+
+node liri.js spotify-this-song beethoven symphony 
+Artist(s): Ludwig van Beethoven
+The song's name: Symphony No. 7 in A Major, Op. 92: II. Allegretto
+Preview link: https://p.scdn.co/mp3-preview/d4858b28f6b2d9e57ab1d87e935f9eba1c28e6e8?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven: Symphonies Nos. 5 & 7
+
+node liri.js spotify-this-song beethoven No. 6 
+Artist(s): Ludwig van Beethoven
+The song's name: 6 Bagatelles, Op. 126: No. 6 in E-Flat Major
+Preview link: https://p.scdn.co/mp3-preview/4c05beb97466a30f75752fa42043cbe7ffa378ff?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven: Piano Works
+
+node liri.js spotify-this-song beethoven No. 6 
+Artist(s): Ludwig van Beethoven
+The song's name: The Creatures of Prometheus, Hess 90, Act II: No. 6, Un poco adagio - Allegretto
+Preview link: https://p.scdn.co/mp3-preview/b7926a977d9c9f4a0fa8b3c27b8abdd62a1ca3fa?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven: The Creatures of Prometheus, Hess 90
+
+node liri.js spotify-this-song beethoven No. 6 
+Artist(s): Ludwig van Beethoven
+The song's name: Piano Sonata No.29 in B-Flat Major, Op. 106 “Hammerklavier”: I. Allegro
+Preview link: https://p.scdn.co/mp3-preview/88cff7118c4a928d8f30e4c7df2f09fae7a72272?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven Piano Sonatas Nos. 9, 13 & 29 "Hammerklavier", Vol. 6
+
+node liri.js spotify-this-song beethoven No. 6 
+Artist(s): Ludwig van Beethoven
+The song's name: 6 Bagatelles, Op. 126: No. 6 in E-Flat Major
+Preview link: https://p.scdn.co/mp3-preview/4c05beb97466a30f75752fa42043cbe7ffa378ff?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven: Piano Works
+
+node liri.js spotify-this-song beethoven No. 6 
+Artist(s): Ludwig van Beethoven
+The song's name: 6 Bagatelles, Op. 126: No. 2 in G Major
+Preview link: https://p.scdn.co/mp3-preview/61418c6f5fb70a3e8ba2c27ca6f620b4d9ec4409?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven: Piano Works
+
+node liri.js spotify-this-song beethoven Symphony No. 6 
+Artist(s): Ludwig van Beethoven
+The song's name: Symphony No. 6 in F Major, Op. 68 "Pastoral": III. Lustiges Zusammensein der Landleute. Allegro
+Preview link: https://p.scdn.co/mp3-preview/5b56d6fea38ed4dcc3fa1c6319c3b88da9bea983?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven: Symphonies Nos. 4 & 6
+
+node liri.js spotify-this-song beethoven Symphony No. 6 
+Artist(s): Ludwig van Beethoven
+The song's name: Beethoven : Symphony No.6 in F major Op.68, 'Pastoral' : III Allegro
+Preview link: https://p.scdn.co/mp3-preview/45aa8416e3ac325e59f02ee57d05df8b879657d4?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven : Symphonies Nos 1 - 9
+
+node liri.js spotify-this-song beethoven Symphony No. 6 
+Artist(s): Ludwig van Beethoven
+The song's name: Beethoven: Symphony No. 6 in F Major, Op. 68, "Pastoral": I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande
+Preview link: https://p.scdn.co/mp3-preview/6ff06358a16772fc7c95f471652b9fa5adb1f86b?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven: Symphony No. 6 "Pastoral"
+
+node liri.js spotify-this-song beethoven Symphony No. 6 I 
+Artist(s): Ludwig van Beethoven
+The song's name: Symphony No. 6 in F Major, Op. 68 "Pastoral" (Remastered): I. Allegro ma non troppo
+Preview link: https://p.scdn.co/mp3-preview/2fb45a62660eae638d50da2974cd3398b0c2b10f?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven: Symphony No. 6 in F Major, Op. 68 "Pastoral"
+
+node liri.js spotify-this-song beethoven Symphony No. 6 I 
+Artist(s): Ludwig van Beethoven
+The song's name: Symphony No. 6 in F Major, Op. 68: I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande
+Preview link: https://p.scdn.co/mp3-preview/e7477d58877667b95407f7037ad1794089eb788a?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven 6 - Dudamel
+
+node liri.js spotify-this-song beethoven Symphony No. 6 I 
+Artist(s): Ludwig van Beethoven
+The song's name: Symphony No. 6 in F Major, Op. 68, "Pastoral": I. Awakening of Cheerful Feelings Upon Arrival in the Country: Allegro ma non troppo
+Preview link: https://p.scdn.co/mp3-preview/3ad13d4577d72f07052f3ca58efc6fa23df58396?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven, L. Van: Symphonies Nos. 2 and 6
+
+node liri.js spotify-this-song beethoven Symphony No. 6 I 
+Artist(s): Ludwig van Beethoven
+The song's name: Symphony No. 6 in F Major, Op. 68 "Pastoral": I. Awakening of happy feelings on arriving in the country
+Preview link: https://p.scdn.co/mp3-preview/6ff06358a16772fc7c95f471652b9fa5adb1f86b?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Beethoven Melodies
+
+node liri.js spotify-this-song can you feel it 
+Artist(s): Scotty McCreery
+The song's name: Can You Feel It
+Preview link: null
+Album: See You Tonight
+
+node liri.js spotify-this-song can you feel it 
+Artist(s): Hey Violet
+The song's name: You Don’t Love Me Like You Should
+Preview link: null
+Album: I Can Feel It
+
+node liri.js spotify-this-song can you feel it 
+Artist(s): Hey Violet
+The song's name: Smash Into You
+Preview link: null
+Album: I Can Feel It
+
+node liri.js spotify-this-song can you feel it 
+Artist(s): Tiësto
+The song's name: Can You Feel It
+Preview link: https://p.scdn.co/mp3-preview/14560a03fa3c70bb5f0e9e38865ec486b93726af?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Together
+
+node liri.js spotify-this-song can you feel it 
+Artist(s): Tiësto
+The song's name: Can You Feel It
+Preview link: https://p.scdn.co/mp3-preview/14560a03fa3c70bb5f0e9e38865ec486b93726af?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Together
+
+node liri.js spotify-this-song can you feel it 
+Artist(s): Scotty McCreery
+The song's name: Can You Feel It
+Preview link: null
+Album: See You Tonight
+
+node liri.js concert-this can you feel it 
+node liri.js concert-this jonas brotherse 
+node liri.js concert-this jonas brothers 
+The venue is Wells Fargo Center.
+The location of the venue is Philadelphia, United States.
+The date of the venue is 08/18/2019.
+
+The venue is Mohegan Sun Arena.
+The location of the venue is Montville Center, United States.
+The date of the venue is 08/21/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 08/23/2019.
+
+The venue is Times Union Center.
+The location of the venue is Albany, United States.
+The date of the venue is 08/19/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 08/24/2019.
+
+The venue is Madison Square Garden.
+The location of the venue is New York, United States.
+The date of the venue is 08/30/2019.
+
+The venue is Hersheypark Stadium.
+The location of the venue is Hershey, United States.
+The date of the venue is 08/31/2019.
+
+The venue is PPG Paints Arena.
+The location of the venue is Pittsburgh, United States.
+The date of the venue is 09/03/2019.
+
+The venue is Bryce Jordan Center.
+The location of the venue is University Park, United States.
+The date of the venue is 09/04/2019.
+
+The venue is Madison Square Garden.
+The location of the venue is New York, United States.
+The date of the venue is 08/29/2019.
+
+The venue is KeyBank Center.
+The location of the venue is Buffalo, United States.
+The date of the venue is 08/27/2019.
+
+The venue is Little Caesars Arena.
+The location of the venue is Detroit, United States.
+The date of the venue is 09/07/2019.
+
+The venue is U.S. Bank Arena.
+The location of the venue is Cincinnati, United States.
+The date of the venue is 09/11/2019.
+
+The venue is Bankers Life Fieldhouse.
+The location of the venue is Indianapolis, United States.
+The date of the venue is 09/13/2019.
+
+The venue is Schottenstein Center.
+The location of the venue is Columbus, United States.
+The date of the venue is 09/05/2019.
+
+The venue is Enterprise Center.
+The location of the venue is St. Louis, United States.
+The date of the venue is 09/14/2019.
+
+The venue is Fiserv Forum.
+The location of the venue is Milwaukee, United States.
+The date of the venue is 09/17/2019.
+
+The venue is Xcel Energy Center.
+The location of the venue is St Paul, United States.
+The date of the venue is 09/16/2019.
+
+The venue is Van Andel Arena.
+The location of the venue is Grand Rapids, United States.
+The date of the venue is 09/08/2019.
+
+The venue is Sprint Center.
+The location of the venue is Kansas City, United States.
+The date of the venue is 09/22/2019.
+
+The venue is American Airlines Center.
+The location of the venue is Dallas, United States.
+The date of the venue is 09/25/2019.
+
+The venue is Bridgestone Arena.
+The location of the venue is Nashville, United States.
+The date of the venue is 09/10/2019.
+
+The venue is Toyota Center.
+The location of the venue is Houston, United States.
+The date of the venue is 09/26/2019.
+
+The venue is AT&T Center.
+The location of the venue is San Antonio, United States.
+The date of the venue is 09/27/2019.
+
+The venue is United Center.
+The location of the venue is Chicago, United States.
+The date of the venue is 09/19/2019.
+
+The venue is Pepsi Center.
+The location of the venue is Denver, United States.
+The date of the venue is 10/01/2019.
+
+The venue is United Center.
+The location of the venue is Chicago, United States.
+The date of the venue is 09/20/2019.
+
+The venue is BOK Center.
+The location of the venue is Tulsa, United States.
+The date of the venue is 09/29/2019.
+
+The venue is Vivint Smart Home Arena.
+The location of the venue is Salt Lake City, United States.
+The date of the venue is 10/03/2019.
+
+The venue is Talking Stick Resort Arena.
+The location of the venue is Phoenix, United States.
+The date of the venue is 10/05/2019.
+
+The venue is Chase Center.
+The location of the venue is San Francisco, United States.
+The date of the venue is 10/08/2019.
+
+The venue is Honda Center.
+The location of the venue is Anaheim, United States.
+The date of the venue is 10/06/2019.
+
+The venue is Tacoma Dome.
+The location of the venue is Tacoma, United States.
+The date of the venue is 10/12/2019.
+
+The venue is Rogers Arena.
+The location of the venue is Vancouver, Canada.
+The date of the venue is 10/11/2019.
+
+The venue is Moda Center.
+The location of the venue is Portland, United States.
+The date of the venue is 10/13/2019.
+
+The venue is Golden 1 Center.
+The location of the venue is Sacramento, United States.
+The date of the venue is 10/15/2019.
+
+The venue is MGM Grand Garden Arena.
+The location of the venue is Las Vegas, United States.
+The date of the venue is 10/18/2019.
+
+The venue is Pechanga Arena San Diego.
+The location of the venue is San Diego, United States.
+The date of the venue is 10/17/2019.
+
+The venue is Hollywood Bowl.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 10/20/2019.
+
+The venue is Auditorio Citibanamex.
+The location of the venue is Monterrey, Mexico.
+The date of the venue is 10/27/2019.
+
+The venue is Hollywood Bowl.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 10/21/2019.
+
+The venue is RB PALACIO DE LOS DEPORTES.
+The location of the venue is Nuevo Mexico, Mexico.
+The date of the venue is 10/30/2019.
+
+The venue is Palacio de los Deportes.
+The location of the venue is Nuevo Mexico, Mexico.
+The date of the venue is 10/31/2019.
+
+The venue is Arena VFG.
+The location of the venue is Ojo De Agua De Los Negros, Mexico.
+The date of the venue is 11/02/2019.
+
+The venue is Legacy Arena.
+The location of the venue is Birmingham, United States.
+The date of the venue is 11/13/2019.
+
+The venue is Smoothie King Center.
+The location of the venue is New Orleans, United States.
+The date of the venue is 11/12/2019.
+
+The venue is BB&T Center.
+The location of the venue is Sunrise, United States.
+The date of the venue is 11/15/2019.
+
+The venue is Amway Center.
+The location of the venue is Orlando, United States.
+The date of the venue is 11/16/2019.
+
+The venue is Auditorio Citibanamex.
+The location of the venue is Monterrey, Mexico.
+The date of the venue is 10/28/2019.
+
+The venue is VyStar Veterans Memorial Arena.
+The location of the venue is Jacksonville, United States.
+The date of the venue is 11/17/2019.
+
+The venue is Barclays Center.
+The location of the venue is Brooklyn, United States.
+The date of the venue is 11/23/2019.
+
+The venue is TD Garden.
+The location of the venue is Boston, United States.
+The date of the venue is 11/24/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 11/26/2019.
+
+The venue is Prudential Center.
+The location of the venue is Newark, United States.
+The date of the venue is 11/22/2019.
+
+The venue is Infinite Energy Arena.
+The location of the venue is Duluth, United States.
+The date of the venue is 11/19/2019.
+
+The venue is Boardwalk Hall.
+The location of the venue is Atlantic City, United States.
+The date of the venue is 11/29/2019.
+
+The venue is Royal Farms Arena.
+The location of the venue is Baltimore, United States.
+The date of the venue is 11/30/2019.
+
+The venue is Allstate Arena.
+The location of the venue is Rosemont, United States.
+The date of the venue is 12/03/2019.
+
+The venue is Spectrum Center.
+The location of the venue is Charlotte, United States.
+The date of the venue is 11/20/2019.
+
+The venue is CHI Health Center Omaha.
+The location of the venue is Omaha, United States.
+The date of the venue is 12/04/2019.
+
+The venue is American Airlines Center.
+The location of the venue is Dallas, United States.
+The date of the venue is 12/06/2019.
+
+The venue is Frank C Erwin Special Events Center.
+The location of the venue is Austin, United States.
+The date of the venue is 12/07/2019.
+
+The venue is Talking Stick Resort Arena.
+The location of the venue is Phoenix, United States.
+The date of the venue is 12/10/2019.
+
+The venue is Oracle Arena.
+The location of the venue is Oakland, United States.
+The date of the venue is 12/12/2019.
+
+The venue is Bell Centre.
+The location of the venue is Montreal, Canada.
+The date of the venue is 11/27/2019.
+
+The venue is The Forum.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 12/14/2019.
+
+The venue is Arena Birmingham.
+The location of the venue is Birmingham, United Kingdom.
+The date of the venue is 01/29/2020.
+
+The venue is 3Arena.
+The location of the venue is Dublin, Ireland.
+The date of the venue is 01/31/2020.
+
+The venue is The Forum.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 12/15/2019.
+
+The venue is The SSE Arena Wembley.
+The location of the venue is London, United Kingdom.
+The date of the venue is 02/03/2020.
+
+The venue is The O2.
+The location of the venue is London, United Kingdom.
+The date of the venue is 02/02/2020.
+
+The venue is SSE Hydro.
+The location of the venue is Glasgow, United Kingdom.
+The date of the venue is 02/05/2020.
+
+The venue is Manchester Arena.
+The location of the venue is Manchester, United Kingdom.
+The date of the venue is 02/06/2020.
+
+The venue is Lotto Arena.
+The location of the venue is Antwerpen, Belgium.
+The date of the venue is 02/08/2020.
+
+The venue is Mercedes-Benz Arena.
+The location of the venue is Berlin, Germany.
+The date of the venue is 02/10/2020.
+
+The venue is Lanxess Arena.
+The location of the venue is Köln, Germany.
+The date of the venue is 02/11/2020.
+
+The venue is Hallenstadion.
+The location of the venue is Zürich, Switzerland.
+The date of the venue is 02/13/2020.
+
+The venue is Mediolanum Forum.
+The location of the venue is Assago, Italy.
+The date of the venue is 02/14/2020.
+
+The venue is Wizin Center.
+The location of the venue is Madrid, Spain.
+The date of the venue is 02/16/2020.
+
+The venue is Palau Sant Jordi.
+The location of the venue is Barcelona, Spain.
+The date of the venue is 02/17/2020.
+
+The venue is SUD DE FRANCE ARENA.
+The location of the venue is Pérols, France.
+The date of the venue is 02/18/2020.
+
+The venue is AccorHotels Arena.
+The location of the venue is Paris, France.
+The date of the venue is 02/22/2020.
+
+The venue is Ziggo Dome.
+The location of the venue is Amsterdam, Netherlands.
+The date of the venue is 02/20/2020.
+
+node liri.js concert-this miley cyrus 
+The venue is T-Mobile Arena.
+The location of the venue is Las Vegas, United States.
+The date of the venue is 09/21/2019.
+
+node liri.js concert-this katy perry 
+node liri.js concert-this katy 
+The venue is The Event Room at The Eagles Club.
+The location of the venue is Valparaiso, United States.
+The date of the venue is 09/28/2019.
+
+node liri.js concert-this the beatels 
+The venue is The Beatels In Concert At Brighton Lakes Golf Club.
+The location of the venue is Moorebank, Australia.
+The date of the venue is 08/31/2019.
+
+The venue is The Beatels In Concert At The Beach Club Collaroy.
+The location of the venue is Collaroy, Australia.
+The date of the venue is 08/24/2019.
+
+The venue is The Beatels In Concert At Elanora Country Club.
+The location of the venue is Mcarthur Heights, Australia.
+The date of the venue is 09/14/2019.
+
+The venue is The Beatels In Concert At Berowra Village Tavern.
+The location of the venue is Mcarthur Heights, Australia.
+The date of the venue is 09/21/2019.
+
+node liri.js concert-this the beatles 
+node liri.js concert-this one direction 
+node liri.js concert-this the wiggles 
+The venue is Coca-Cola Coliseum.
+The location of the venue is Toronto, Canada.
+The date of the venue is 10/06/2019.
+
+The venue is The Empire Theatre.
+The location of the venue is Belleville, Canada.
+The date of the venue is 10/08/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 11/19/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 11/23/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 11/24/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 11/30/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 12/01/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 12/07/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 12/08/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 12/14/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 12/12/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 12/15/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 12/22/2019.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 02/02/2020.
+
+The venue is Adelaide Entertainment Centre.
+The location of the venue is Hindmarsh, Australia.
+The date of the venue is 12/21/2019.
+
+node liri.js movie-this the shape of water
+Title: The Shape of Water
+Year: 2017
+imdb Rating: 7.3
+Rotten Tomatoes Rating: 92%
+Country: USA
+Language: English, American Sign Language, Russian, French
+Plot: At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.
+Actors: Sally Hawkins, Michael Shannon, Richard Jenkins, Octavia Spencer
+
+node liri.js movie-this meet me in st. louis
+Title: Meet Me in St. Louis
+Year: 1944
+imdb Rating: 7.6
+Rotten Tomatoes Rating: 100%
+Country: USA
+Language: English
+Plot: In the year leading up to the 1904 St. Louis World's Fair, the four Smith daughters learn lessons of life and love, even as they prepare for a reluctant move to New York.
+Actors: Judy Garland, Margaret O'Brien, Mary Astor, Lucille Bremer
+
+node liri.js movie-this the wizard of oz
+Title: The Wizard of Oz
+Year: 1939
+imdb Rating: 8.0
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English
+Plot: Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home to Kansas and help her friends as well.
+Actors: Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr
+
+node liri.js movie-this birth of a nation
+Title: Birth of a Nation
+Year: 1997
+imdb Rating: 7.0
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English
+Plot: Mekas leads an archival avant-garde, a fast-paced parade of 160 underground film people he captured on film over four decades, described as, "160 portraits or rather appearances, sketches ...
+Actors: Chantal Akerman, Kenneth Anger, Michel Auder, Bruce Baillie
+
+node liri.js movie-this the birth of a nation
+Title: The Birth of a Nation
+Year: 1915
+imdb Rating: 6.6
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: N/A
+Plot: The Stoneman family finds its friendship with the Camerons affected by the Civil War, both fighting in opposite armies. The development of the war in their lives plays through to Lincoln's assassination and the birth of the Ku Klux Klan.
+Actors: Henry B. Walthall, Lillian Gish, Mae Marsh, Miriam Cooper
+
+node liri.js movie-this capablanca
+Title: Capablanca
+Year: 1987
+imdb Rating: 6.8
+Rotten Tomatoes Rating: N/A
+Country: Cuba, Soviet Union
+Language: Spanish, Russian
+Plot: N/A
+Actors: César Évora, Galina Belyaeva, Eslinda Núñez, Adolfo Llauradó
+
+node liri.js movie-this casablanca
+Title: Casablanca
+Year: 1942
+imdb Rating: 8.5
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English, French, German, Italian
+Plot: A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco.
+Actors: Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains
+
+node liri.js movie-this carlsen
+Title: Jacob Haugaard/Claus Carlsen Show
+Year: 1984
+imdb Rating: N/A
+Rotten Tomatoes Rating: N/A
+Country: Denmark
+Language: Danish
+Plot: N/A
+Actors: Claus Carlsen, Jacob Haugaard
+
+node liri.js movie-this magnus
+Title: Magnus
+Year: 2016
+imdb Rating: 7.1
+Rotten Tomatoes Rating: 80%
+Country: Norway
+Language: Norwegian, English
+Plot: Magnus Carlsen, Norwegian chess prodigy, becomes a grandmaster at age 13 and world champion in 2013.
+Actors: Magnus Carlsen, Garry Kasparov, Viswanathan Anand
+
+node liri.js movie-this sleepover
+Title: Sleepover
+Year: 2004
+imdb Rating: 5.4
+Rotten Tomatoes Rating: 15%
+Country: USA
+Language: English
+Plot: Four best friends, desperate to improve their social status, enter into an all-night scavenger hunt against the popular clique in their school.
+Actors: Alexa PenaVega, Mika Boorem, Jane Lynch, Sam Huntington
+
+node liri.js concert-this jonas 
+The venue is Cafe #9.
+The location of the venue is Sheffield, United Kingdom.
+The date of the venue is 10/06/2019.
+
+The venue is The Glad Cafe C.I.C.
+The location of the venue is Glasgow, United Kingdom.
+The date of the venue is 10/04/2019.
+
+The venue is Curry Mallet and Beercrocombe Village Hall.
+The location of the venue is Taunton, United Kingdom.
+The date of the venue is 11/15/2019.
+
+node liri.js concert-this jonas brothers 
+The venue is Times Union Center.
+The location of the venue is Albany, United States.
+The date of the venue is 08/19/2019.
+
+The venue is Mohegan Sun Arena.
+The location of the venue is Montville Center, United States.
+The date of the venue is 08/21/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 08/23/2019.
+
+The venue is KeyBank Center.
+The location of the venue is Buffalo, United States.
+The date of the venue is 08/27/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 08/24/2019.
+
+The venue is Madison Square Garden.
+The location of the venue is New York, United States.
+The date of the venue is 08/29/2019.
+
+The venue is Hersheypark Stadium.
+The location of the venue is Hershey, United States.
+The date of the venue is 08/31/2019.
+
+The venue is Madison Square Garden.
+The location of the venue is New York, United States.
+The date of the venue is 08/30/2019.
+
+The venue is PPG Paints Arena.
+The location of the venue is Pittsburgh, United States.
+The date of the venue is 09/03/2019.
+
+The venue is Bryce Jordan Center.
+The location of the venue is University Park, United States.
+The date of the venue is 09/04/2019.
+
+The venue is Schottenstein Center.
+The location of the venue is Columbus, United States.
+The date of the venue is 09/05/2019.
+
+The venue is Van Andel Arena.
+The location of the venue is Grand Rapids, United States.
+The date of the venue is 09/08/2019.
+
+The venue is U.S. Bank Arena.
+The location of the venue is Cincinnati, United States.
+The date of the venue is 09/11/2019.
+
+The venue is Bankers Life Fieldhouse.
+The location of the venue is Indianapolis, United States.
+The date of the venue is 09/13/2019.
+
+The venue is Enterprise Center.
+The location of the venue is St. Louis, United States.
+The date of the venue is 09/14/2019.
+
+The venue is Little Caesars Arena.
+The location of the venue is Detroit, United States.
+The date of the venue is 09/07/2019.
+
+The venue is Bridgestone Arena.
+The location of the venue is Nashville, United States.
+The date of the venue is 09/10/2019.
+
+The venue is Xcel Energy Center.
+The location of the venue is St Paul, United States.
+The date of the venue is 09/16/2019.
+
+The venue is United Center.
+The location of the venue is Chicago, United States.
+The date of the venue is 09/19/2019.
+
+The venue is Fiserv Forum.
+The location of the venue is Milwaukee, United States.
+The date of the venue is 09/17/2019.
+
+The venue is United Center.
+The location of the venue is Chicago, United States.
+The date of the venue is 09/20/2019.
+
+The venue is Sprint Center.
+The location of the venue is Kansas City, United States.
+The date of the venue is 09/22/2019.
+
+The venue is American Airlines Center.
+The location of the venue is Dallas, United States.
+The date of the venue is 09/25/2019.
+
+The venue is AT&T Center.
+The location of the venue is San Antonio, United States.
+The date of the venue is 09/27/2019.
+
+The venue is BOK Center.
+The location of the venue is Tulsa, United States.
+The date of the venue is 09/29/2019.
+
+The venue is Pepsi Center.
+The location of the venue is Denver, United States.
+The date of the venue is 10/01/2019.
+
+The venue is Vivint Smart Home Arena.
+The location of the venue is Salt Lake City, United States.
+The date of the venue is 10/03/2019.
+
+The venue is Talking Stick Resort Arena.
+The location of the venue is Phoenix, United States.
+The date of the venue is 10/05/2019.
+
+The venue is Toyota Center.
+The location of the venue is Houston, United States.
+The date of the venue is 09/26/2019.
+
+The venue is Chase Center.
+The location of the venue is San Francisco, United States.
+The date of the venue is 10/08/2019.
+
+The venue is Honda Center.
+The location of the venue is Anaheim, United States.
+The date of the venue is 10/06/2019.
+
+The venue is Rogers Arena.
+The location of the venue is Vancouver, Canada.
+The date of the venue is 10/11/2019.
+
+The venue is Tacoma Dome.
+The location of the venue is Tacoma, United States.
+The date of the venue is 10/12/2019.
+
+The venue is Moda Center.
+The location of the venue is Portland, United States.
+The date of the venue is 10/13/2019.
+
+The venue is Pechanga Arena San Diego.
+The location of the venue is San Diego, United States.
+The date of the venue is 10/17/2019.
+
+The venue is Hollywood Bowl.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 10/20/2019.
+
+The venue is Hollywood Bowl.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 10/21/2019.
+
+The venue is Auditorio Citibanamex.
+The location of the venue is Monterrey, Mexico.
+The date of the venue is 10/27/2019.
+
+The venue is Auditorio Citibanamex.
+The location of the venue is Monterrey, Mexico.
+The date of the venue is 10/28/2019.
+
+The venue is RB PALACIO DE LOS DEPORTES.
+The location of the venue is Nuevo Mexico, Mexico.
+The date of the venue is 10/30/2019.
+
+The venue is Palacio de los Deportes.
+The location of the venue is Nuevo Mexico, Mexico.
+The date of the venue is 10/31/2019.
+
+The venue is MGM Grand Garden Arena.
+The location of the venue is Las Vegas, United States.
+The date of the venue is 10/18/2019.
+
+The venue is Smoothie King Center.
+The location of the venue is New Orleans, United States.
+The date of the venue is 11/12/2019.
+
+The venue is Legacy Arena.
+The location of the venue is Birmingham, United States.
+The date of the venue is 11/13/2019.
+
+The venue is Golden 1 Center.
+The location of the venue is Sacramento, United States.
+The date of the venue is 10/15/2019.
+
+The venue is Arena VFG.
+The location of the venue is Ojo De Agua De Los Negros, Mexico.
+The date of the venue is 11/02/2019.
+
+The venue is BB&T Center.
+The location of the venue is Sunrise, United States.
+The date of the venue is 11/15/2019.
+
+The venue is Amway Center.
+The location of the venue is Orlando, United States.
+The date of the venue is 11/16/2019.
+
+The venue is VyStar Veterans Memorial Arena.
+The location of the venue is Jacksonville, United States.
+The date of the venue is 11/17/2019.
+
+The venue is Infinite Energy Arena.
+The location of the venue is Duluth, United States.
+The date of the venue is 11/19/2019.
+
+The venue is Barclays Center.
+The location of the venue is Brooklyn, United States.
+The date of the venue is 11/23/2019.
+
+The venue is TD Garden.
+The location of the venue is Boston, United States.
+The date of the venue is 11/24/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 11/26/2019.
+
+The venue is Bell Centre.
+The location of the venue is Montreal, Canada.
+The date of the venue is 11/27/2019.
+
+The venue is Boardwalk Hall.
+The location of the venue is Atlantic City, United States.
+The date of the venue is 11/29/2019.
+
+The venue is Royal Farms Arena.
+The location of the venue is Baltimore, United States.
+The date of the venue is 11/30/2019.
+
+The venue is Prudential Center.
+The location of the venue is Newark, United States.
+The date of the venue is 11/22/2019.
+
+The venue is Spectrum Center.
+The location of the venue is Charlotte, United States.
+The date of the venue is 11/20/2019.
+
+The venue is CHI Health Center Omaha.
+The location of the venue is Omaha, United States.
+The date of the venue is 12/04/2019.
+
+The venue is Allstate Arena.
+The location of the venue is Rosemont, United States.
+The date of the venue is 12/03/2019.
+
+The venue is American Airlines Center.
+The location of the venue is Dallas, United States.
+The date of the venue is 12/06/2019.
+
+The venue is Frank C Erwin Special Events Center.
+The location of the venue is Austin, United States.
+The date of the venue is 12/07/2019.
+
+The venue is Oracle Arena.
+The location of the venue is Oakland, United States.
+The date of the venue is 12/12/2019.
+
+The venue is Talking Stick Resort Arena.
+The location of the venue is Phoenix, United States.
+The date of the venue is 12/10/2019.
+
+The venue is The Forum.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 12/14/2019.
+
+The venue is Arena Birmingham.
+The location of the venue is Birmingham, United Kingdom.
+The date of the venue is 01/29/2020.
+
+The venue is The Forum.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 12/15/2019.
+
+The venue is 3Arena.
+The location of the venue is Dublin, Ireland.
+The date of the venue is 01/31/2020.
+
+The venue is The O2.
+The location of the venue is London, United Kingdom.
+The date of the venue is 02/02/2020.
+
+The venue is SSE Hydro.
+The location of the venue is Glasgow, United Kingdom.
+The date of the venue is 02/05/2020.
+
+The venue is The SSE Arena Wembley.
+The location of the venue is London, United Kingdom.
+The date of the venue is 02/03/2020.
+
+The venue is Lotto Arena.
+The location of the venue is Antwerpen, Belgium.
+The date of the venue is 02/08/2020.
+
+The venue is Manchester Arena.
+The location of the venue is Manchester, United Kingdom.
+The date of the venue is 02/06/2020.
+
+The venue is Mercedes-Benz Arena.
+The location of the venue is Berlin, Germany.
+The date of the venue is 02/10/2020.
+
+The venue is Hallenstadion.
+The location of the venue is Zürich, Switzerland.
+The date of the venue is 02/13/2020.
+
+The venue is Lanxess Arena.
+The location of the venue is Köln, Germany.
+The date of the venue is 02/11/2020.
+
+The venue is Mediolanum Forum.
+The location of the venue is Assago, Italy.
+The date of the venue is 02/14/2020.
+
+The venue is Palau Sant Jordi.
+The location of the venue is Barcelona, Spain.
+The date of the venue is 02/17/2020.
+
+The venue is SUD DE FRANCE ARENA.
+The location of the venue is Pérols, France.
+The date of the venue is 02/18/2020.
+
+The venue is Wizin Center.
+The location of the venue is Madrid, Spain.
+The date of the venue is 02/16/2020.
+
+The venue is Ziggo Dome.
+The location of the venue is Amsterdam, Netherlands.
+The date of the venue is 02/20/2020.
+
+The venue is AccorHotels Arena.
+The location of the venue is Paris, France.
+The date of the venue is 02/22/2020.
+
+node liri.js concert-this jonas brothers 
+The venue is Times Union Center.
+The location of the venue is Albany, United States.
+The date of the venue is 08/19/2019.
+
+The venue is Mohegan Sun Arena.
+The location of the venue is Montville Center, United States.
+The date of the venue is 08/21/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 08/24/2019.
+
+The venue is KeyBank Center.
+The location of the venue is Buffalo, United States.
+The date of the venue is 08/27/2019.
+
+The venue is Madison Square Garden.
+The location of the venue is New York, United States.
+The date of the venue is 08/29/2019.
+
+The venue is Madison Square Garden.
+The location of the venue is New York, United States.
+The date of the venue is 08/30/2019.
+
+The venue is Hersheypark Stadium.
+The location of the venue is Hershey, United States.
+The date of the venue is 08/31/2019.
+
+The venue is PPG Paints Arena.
+The location of the venue is Pittsburgh, United States.
+The date of the venue is 09/03/2019.
+
+The venue is Bryce Jordan Center.
+The location of the venue is University Park, United States.
+The date of the venue is 09/04/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 08/23/2019.
+
+The venue is Schottenstein Center.
+The location of the venue is Columbus, United States.
+The date of the venue is 09/05/2019.
+
+The venue is Van Andel Arena.
+The location of the venue is Grand Rapids, United States.
+The date of the venue is 09/08/2019.
+
+The venue is Little Caesars Arena.
+The location of the venue is Detroit, United States.
+The date of the venue is 09/07/2019.
+
+The venue is Bridgestone Arena.
+The location of the venue is Nashville, United States.
+The date of the venue is 09/10/2019.
+
+The venue is U.S. Bank Arena.
+The location of the venue is Cincinnati, United States.
+The date of the venue is 09/11/2019.
+
+The venue is Bankers Life Fieldhouse.
+The location of the venue is Indianapolis, United States.
+The date of the venue is 09/13/2019.
+
+The venue is Xcel Energy Center.
+The location of the venue is St Paul, United States.
+The date of the venue is 09/16/2019.
+
+The venue is Enterprise Center.
+The location of the venue is St. Louis, United States.
+The date of the venue is 09/14/2019.
+
+The venue is United Center.
+The location of the venue is Chicago, United States.
+The date of the venue is 09/19/2019.
+
+The venue is United Center.
+The location of the venue is Chicago, United States.
+The date of the venue is 09/20/2019.
+
+The venue is Sprint Center.
+The location of the venue is Kansas City, United States.
+The date of the venue is 09/22/2019.
+
+The venue is American Airlines Center.
+The location of the venue is Dallas, United States.
+The date of the venue is 09/25/2019.
+
+The venue is Toyota Center.
+The location of the venue is Houston, United States.
+The date of the venue is 09/26/2019.
+
+The venue is AT&T Center.
+The location of the venue is San Antonio, United States.
+The date of the venue is 09/27/2019.
+
+The venue is BOK Center.
+The location of the venue is Tulsa, United States.
+The date of the venue is 09/29/2019.
+
+The venue is Fiserv Forum.
+The location of the venue is Milwaukee, United States.
+The date of the venue is 09/17/2019.
+
+The venue is Vivint Smart Home Arena.
+The location of the venue is Salt Lake City, United States.
+The date of the venue is 10/03/2019.
+
+The venue is Talking Stick Resort Arena.
+The location of the venue is Phoenix, United States.
+The date of the venue is 10/05/2019.
+
+The venue is Pepsi Center.
+The location of the venue is Denver, United States.
+The date of the venue is 10/01/2019.
+
+The venue is Honda Center.
+The location of the venue is Anaheim, United States.
+The date of the venue is 10/06/2019.
+
+The venue is Chase Center.
+The location of the venue is San Francisco, United States.
+The date of the venue is 10/08/2019.
+
+The venue is Rogers Arena.
+The location of the venue is Vancouver, Canada.
+The date of the venue is 10/11/2019.
+
+The venue is Moda Center.
+The location of the venue is Portland, United States.
+The date of the venue is 10/13/2019.
+
+The venue is Golden 1 Center.
+The location of the venue is Sacramento, United States.
+The date of the venue is 10/15/2019.
+
+The venue is MGM Grand Garden Arena.
+The location of the venue is Las Vegas, United States.
+The date of the venue is 10/18/2019.
+
+The venue is Hollywood Bowl.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 10/20/2019.
+
+The venue is Pechanga Arena San Diego.
+The location of the venue is San Diego, United States.
+The date of the venue is 10/17/2019.
+
+The venue is Auditorio Citibanamex.
+The location of the venue is Monterrey, Mexico.
+The date of the venue is 10/27/2019.
+
+The venue is Tacoma Dome.
+The location of the venue is Tacoma, United States.
+The date of the venue is 10/12/2019.
+
+The venue is Hollywood Bowl.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 10/21/2019.
+
+The venue is RB PALACIO DE LOS DEPORTES.
+The location of the venue is Nuevo Mexico, Mexico.
+The date of the venue is 10/30/2019.
+
+The venue is Auditorio Citibanamex.
+The location of the venue is Monterrey, Mexico.
+The date of the venue is 10/28/2019.
+
+The venue is Palacio de los Deportes.
+The location of the venue is Nuevo Mexico, Mexico.
+The date of the venue is 10/31/2019.
+
+The venue is Smoothie King Center.
+The location of the venue is New Orleans, United States.
+The date of the venue is 11/12/2019.
+
+The venue is Arena VFG.
+The location of the venue is Ojo De Agua De Los Negros, Mexico.
+The date of the venue is 11/02/2019.
+
+The venue is Legacy Arena.
+The location of the venue is Birmingham, United States.
+The date of the venue is 11/13/2019.
+
+The venue is Amway Center.
+The location of the venue is Orlando, United States.
+The date of the venue is 11/16/2019.
+
+The venue is BB&T Center.
+The location of the venue is Sunrise, United States.
+The date of the venue is 11/15/2019.
+
+The venue is VyStar Veterans Memorial Arena.
+The location of the venue is Jacksonville, United States.
+The date of the venue is 11/17/2019.
+
+The venue is Infinite Energy Arena.
+The location of the venue is Duluth, United States.
+The date of the venue is 11/19/2019.
+
+The venue is Spectrum Center.
+The location of the venue is Charlotte, United States.
+The date of the venue is 11/20/2019.
+
+The venue is Barclays Center.
+The location of the venue is Brooklyn, United States.
+The date of the venue is 11/23/2019.
+
+The venue is TD Garden.
+The location of the venue is Boston, United States.
+The date of the venue is 11/24/2019.
+
+The venue is Prudential Center.
+The location of the venue is Newark, United States.
+The date of the venue is 11/22/2019.
+
+The venue is Bell Centre.
+The location of the venue is Montreal, Canada.
+The date of the venue is 11/27/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 11/26/2019.
+
+The venue is Boardwalk Hall.
+The location of the venue is Atlantic City, United States.
+The date of the venue is 11/29/2019.
+
+The venue is Allstate Arena.
+The location of the venue is Rosemont, United States.
+The date of the venue is 12/03/2019.
+
+The venue is CHI Health Center Omaha.
+The location of the venue is Omaha, United States.
+The date of the venue is 12/04/2019.
+
+The venue is Royal Farms Arena.
+The location of the venue is Baltimore, United States.
+The date of the venue is 11/30/2019.
+
+The venue is Frank C Erwin Special Events Center.
+The location of the venue is Austin, United States.
+The date of the venue is 12/07/2019.
+
+The venue is Talking Stick Resort Arena.
+The location of the venue is Phoenix, United States.
+The date of the venue is 12/10/2019.
+
+The venue is The Forum.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 12/15/2019.
+
+The venue is Arena Birmingham.
+The location of the venue is Birmingham, United Kingdom.
+The date of the venue is 01/29/2020.
+
+The venue is Oracle Arena.
+The location of the venue is Oakland, United States.
+The date of the venue is 12/12/2019.
+
+The venue is 3Arena.
+The location of the venue is Dublin, Ireland.
+The date of the venue is 01/31/2020.
+
+The venue is The O2.
+The location of the venue is London, United Kingdom.
+The date of the venue is 02/02/2020.
+
+The venue is American Airlines Center.
+The location of the venue is Dallas, United States.
+The date of the venue is 12/06/2019.
+
+The venue is The Forum.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 12/14/2019.
+
+The venue is The SSE Arena Wembley.
+The location of the venue is London, United Kingdom.
+The date of the venue is 02/03/2020.
+
+The venue is Manchester Arena.
+The location of the venue is Manchester, United Kingdom.
+The date of the venue is 02/06/2020.
+
+The venue is SSE Hydro.
+The location of the venue is Glasgow, United Kingdom.
+The date of the venue is 02/05/2020.
+
+The venue is Lotto Arena.
+The location of the venue is Antwerpen, Belgium.
+The date of the venue is 02/08/2020.
+
+The venue is Mercedes-Benz Arena.
+The location of the venue is Berlin, Germany.
+The date of the venue is 02/10/2020.
+
+The venue is Hallenstadion.
+The location of the venue is Zürich, Switzerland.
+The date of the venue is 02/13/2020.
+
+The venue is Wizin Center.
+The location of the venue is Madrid, Spain.
+The date of the venue is 02/16/2020.
+
+The venue is Lanxess Arena.
+The location of the venue is Köln, Germany.
+The date of the venue is 02/11/2020.
+
+The venue is Mediolanum Forum.
+The location of the venue is Assago, Italy.
+The date of the venue is 02/14/2020.
+
+The venue is Palau Sant Jordi.
+The location of the venue is Barcelona, Spain.
+The date of the venue is 02/17/2020.
+
+The venue is SUD DE FRANCE ARENA.
+The location of the venue is Pérols, France.
+The date of the venue is 02/18/2020.
+
+The venue is AccorHotels Arena.
+The location of the venue is Paris, France.
+The date of the venue is 02/22/2020.
+
+The venue is Ziggo Dome.
+The location of the venue is Amsterdam, Netherlands.
+The date of the venue is 02/20/2020.
+
+node liri.js spotify-this-song smooth criminal 
+Artist(s): Michael Jackson
+The song's name: Smooth Criminal - Radio Edit
+Preview link: https://p.scdn.co/mp3-preview/7522d903e382658c8eb1bf58b6ff4f1430b3dca4?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Number Ones
+
+node liri.js concert-this cyrus 
+The venue is STK Midtown.
+The location of the venue is New York, United States.
+The date of the venue is 08/23/2019.
+
+The venue is STK Midtown.
+The location of the venue is New York, United States.
+The date of the venue is 08/30/2019.
+
+node liri.js spotify-this-song clarinet 
+Artist(s): Aaron Copland
+The song's name: Appalachian Spring Suite
+Preview link: https://p.scdn.co/mp3-preview/bb65b00ae484ff49a4ab1cf9894d2af61d99058f?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Copland: Appalachian Spring / Clarinet Concerto / Quiet City
+
+node liri.js spotify-this-song clarinet 
+Artist(s): Wolfgang Amadeus Mozart
+The song's name: Clarinet Concerto in A Major, K. 622: II. Adagio
+Preview link: https://p.scdn.co/mp3-preview/da1be79d75ab0975dca42a0fd2c8dfe4276b192a?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Mozart Clarinet Concerto
+
+node liri.js do-what-it-says
+Title: Mr. Nobody
+Year: 2009
+imdb Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+node liri.js movie-this star trek
+Title: Star Trek
+Year: 2009
+imdb Rating: 8.0
+Rotten Tomatoes Rating: 94%
+Country: USA, Germany
+Language: English
+Plot: The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
+Actors: Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana
+
+node liri.js movie-this walle
+node liri.js movie-this walle
+node liri.js movie-this walle
+node liri.js movie-this walle
+node liri.js movie-this walle
+node liri.js concert-this jonas 
+The venue is Curry Mallet and Beercrocombe Village Hall.
+The location of the venue is Taunton, United Kingdom.
+The date of the venue is 11/15/2019.
+
+The venue is The Glad Cafe C.I.C.
+The location of the venue is Glasgow, United Kingdom.
+The date of the venue is 10/04/2019.
+
+The venue is Cafe #9.
+The location of the venue is Sheffield, United Kingdom.
+The date of the venue is 10/06/2019.
+
+node liri.js concert-this jona 
+The venue is Grey Eagle Event Centre.
+The location of the venue is Calgary, Canada.
+The date of the venue is 10/12/2019.
+
+node liri.js concert-this jon 
+node liri.js concert-this jo 
+The venue is The HAYLOFT at Dragonfly Barn.
+The location of the venue is Bridgton, United States.
+The date of the venue is 10/06/2019.
+
+The venue is T-Mobile Arena.
+The location of the venue is Las Vegas, United States.
+The date of the venue is 09/21/2019.
+
+node liri.js concert-this miley cyrus 
+node liri.js concert-this justin bieber 
+node liri.js do-what-it-says
+Title: Hello World
+Year: 2016–
+imdb Rating: 7.5
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English
+Plot: Hello World invites the viewer to come on a journey. It's a journey that stretches across the globe to find the inventors, scientists and technologists shaping our future. Each episode ...
+Actors: Ashlee Vance
+
+The venue is T-Mobile Arena.
+The location of the venue is Las Vegas, United States.
+The date of the venue is 09/21/2019.
+
+node liri.js concert-this miley cyrus 
+node liri.js spotify-this-song smooth criminal 
+Artist(s): David Angel
+The song's name: Smooth Criminal
+Preview link: https://p.scdn.co/mp3-preview/6b58f05679fe82770fccbffbf460845d46e9f18c?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Tropic
+
+node liri.js spotify-this-song 
+Artist(s): Ace of Base
+The song's name: The Sign
+Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: The Sign (US Album) [Remastered]
+
+node liri.js spotify-this-song 
+Artist(s): Ace of Base
+The song's name: The Sign
+Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: The Sign (US Album) [Remastered]
+
+node liri.js do-what-it-says
+Artist(s): Louie Zong
+The song's name: Hello, World
+Preview link: https://p.scdn.co/mp3-preview/6566fa6393ca302a6019b5b6fc04a562d6f9bbd2?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Hello, World
+
+node liri.js do-what-it-says
+Artist(s): Zane Williams
+The song's name: Hello World
+Preview link: https://p.scdn.co/mp3-preview/a7a1597fe3ff6ecafb7e72e6084a12d7ee3007bc?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: Bringin' Country Back
+
+node liri.js concert-this jonas brothers 
+The venue is Mohegan Sun Arena.
+The location of the venue is Montville Center, United States.
+The date of the venue is 08/21/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 08/23/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 08/24/2019.
+
+The venue is KeyBank Center.
+The location of the venue is Buffalo, United States.
+The date of the venue is 08/27/2019.
+
+The venue is Madison Square Garden.
+The location of the venue is New York, United States.
+The date of the venue is 08/29/2019.
+
+The venue is Madison Square Garden.
+The location of the venue is New York, United States.
+The date of the venue is 08/30/2019.
+
+The venue is Hersheypark Stadium.
+The location of the venue is Hershey, United States.
+The date of the venue is 08/31/2019.
+
+The venue is Bryce Jordan Center.
+The location of the venue is University Park, United States.
+The date of the venue is 09/04/2019.
+
+The venue is PPG Paints Arena.
+The location of the venue is Pittsburgh, United States.
+The date of the venue is 09/03/2019.
+
+The venue is Van Andel Arena.
+The location of the venue is Grand Rapids, United States.
+The date of the venue is 09/08/2019.
+
+The venue is Bridgestone Arena.
+The location of the venue is Nashville, United States.
+The date of the venue is 09/10/2019.
+
+The venue is U.S. Bank Arena.
+The location of the venue is Cincinnati, United States.
+The date of the venue is 09/11/2019.
+
+The venue is Bankers Life Fieldhouse.
+The location of the venue is Indianapolis, United States.
+The date of the venue is 09/13/2019.
+
+The venue is Schottenstein Center.
+The location of the venue is Columbus, United States.
+The date of the venue is 09/05/2019.
+
+The venue is Xcel Energy Center.
+The location of the venue is St Paul, United States.
+The date of the venue is 09/16/2019.
+
+The venue is Enterprise Center.
+The location of the venue is St. Louis, United States.
+The date of the venue is 09/14/2019.
+
+The venue is Fiserv Forum.
+The location of the venue is Milwaukee, United States.
+The date of the venue is 09/17/2019.
+
+The venue is United Center.
+The location of the venue is Chicago, United States.
+The date of the venue is 09/19/2019.
+
+The venue is United Center.
+The location of the venue is Chicago, United States.
+The date of the venue is 09/20/2019.
+
+The venue is Sprint Center.
+The location of the venue is Kansas City, United States.
+The date of the venue is 09/22/2019.
+
+The venue is American Airlines Center.
+The location of the venue is Dallas, United States.
+The date of the venue is 09/25/2019.
+
+The venue is Toyota Center.
+The location of the venue is Houston, United States.
+The date of the venue is 09/26/2019.
+
+The venue is AT&T Center.
+The location of the venue is San Antonio, United States.
+The date of the venue is 09/27/2019.
+
+The venue is BOK Center.
+The location of the venue is Tulsa, United States.
+The date of the venue is 09/29/2019.
+
+The venue is Pepsi Center.
+The location of the venue is Denver, United States.
+The date of the venue is 10/01/2019.
+
+The venue is Vivint Smart Home Arena.
+The location of the venue is Salt Lake City, United States.
+The date of the venue is 10/03/2019.
+
+The venue is Honda Center.
+The location of the venue is Anaheim, United States.
+The date of the venue is 10/06/2019.
+
+The venue is Little Caesars Arena.
+The location of the venue is Detroit, United States.
+The date of the venue is 09/07/2019.
+
+The venue is Talking Stick Resort Arena.
+The location of the venue is Phoenix, United States.
+The date of the venue is 10/05/2019.
+
+The venue is Chase Center.
+The location of the venue is San Francisco, United States.
+The date of the venue is 10/08/2019.
+
+The venue is Tacoma Dome.
+The location of the venue is Tacoma, United States.
+The date of the venue is 10/12/2019.
+
+The venue is Rogers Arena.
+The location of the venue is Vancouver, Canada.
+The date of the venue is 10/11/2019.
+
+The venue is Moda Center.
+The location of the venue is Portland, United States.
+The date of the venue is 10/13/2019.
+
+The venue is Golden 1 Center.
+The location of the venue is Sacramento, United States.
+The date of the venue is 10/15/2019.
+
+The venue is Pechanga Arena San Diego.
+The location of the venue is San Diego, United States.
+The date of the venue is 10/17/2019.
+
+The venue is Hollywood Bowl.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 10/20/2019.
+
+The venue is MGM Grand Garden Arena.
+The location of the venue is Las Vegas, United States.
+The date of the venue is 10/18/2019.
+
+The venue is Hollywood Bowl.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 10/21/2019.
+
+The venue is Auditorio Citibanamex.
+The location of the venue is Monterrey, Mexico.
+The date of the venue is 10/28/2019.
+
+The venue is Auditorio Citibanamex.
+The location of the venue is Monterrey, Mexico.
+The date of the venue is 10/27/2019.
+
+The venue is RB PALACIO DE LOS DEPORTES.
+The location of the venue is Nuevo Mexico, Mexico.
+The date of the venue is 10/30/2019.
+
+The venue is Arena VFG.
+The location of the venue is Ojo De Agua De Los Negros, Mexico.
+The date of the venue is 11/02/2019.
+
+The venue is Legacy Arena.
+The location of the venue is Birmingham, United States.
+The date of the venue is 11/13/2019.
+
+The venue is BB&T Center.
+The location of the venue is Sunrise, United States.
+The date of the venue is 11/15/2019.
+
+The venue is Amway Center.
+The location of the venue is Orlando, United States.
+The date of the venue is 11/16/2019.
+
+The venue is VyStar Veterans Memorial Arena.
+The location of the venue is Jacksonville, United States.
+The date of the venue is 11/17/2019.
+
+The venue is Smoothie King Center.
+The location of the venue is New Orleans, United States.
+The date of the venue is 11/12/2019.
+
+The venue is Infinite Energy Arena.
+The location of the venue is Duluth, United States.
+The date of the venue is 11/19/2019.
+
+The venue is Palacio de los Deportes.
+The location of the venue is Nuevo Mexico, Mexico.
+The date of the venue is 10/31/2019.
+
+The venue is Prudential Center.
+The location of the venue is Newark, United States.
+The date of the venue is 11/22/2019.
+
+The venue is TD Garden.
+The location of the venue is Boston, United States.
+The date of the venue is 11/24/2019.
+
+The venue is Scotiabank Arena.
+The location of the venue is Toronto, Canada.
+The date of the venue is 11/26/2019.
+
+The venue is Bell Centre.
+The location of the venue is Montreal, Canada.
+The date of the venue is 11/27/2019.
+
+The venue is Boardwalk Hall.
+The location of the venue is Atlantic City, United States.
+The date of the venue is 11/29/2019.
+
+The venue is Royal Farms Arena.
+The location of the venue is Baltimore, United States.
+The date of the venue is 11/30/2019.
+
+The venue is Barclays Center.
+The location of the venue is Brooklyn, United States.
+The date of the venue is 11/23/2019.
+
+The venue is Spectrum Center.
+The location of the venue is Charlotte, United States.
+The date of the venue is 11/20/2019.
+
+The venue is CHI Health Center Omaha.
+The location of the venue is Omaha, United States.
+The date of the venue is 12/04/2019.
+
+The venue is American Airlines Center.
+The location of the venue is Dallas, United States.
+The date of the venue is 12/06/2019.
+
+The venue is Frank C Erwin Special Events Center.
+The location of the venue is Austin, United States.
+The date of the venue is 12/07/2019.
+
+The venue is The Forum.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 12/14/2019.
+
+The venue is The Forum.
+The location of the venue is Los Angeles, United States.
+The date of the venue is 12/15/2019.
+
+The venue is Oracle Arena.
+The location of the venue is Oakland, United States.
+The date of the venue is 12/12/2019.
+
+The venue is Allstate Arena.
+The location of the venue is Rosemont, United States.
+The date of the venue is 12/03/2019.
+
+The venue is Arena Birmingham.
+The location of the venue is Birmingham, United Kingdom.
+The date of the venue is 01/29/2020.
+
+The venue is Talking Stick Resort Arena.
+The location of the venue is Phoenix, United States.
+The date of the venue is 12/10/2019.
+
+The venue is 3Arena.
+The location of the venue is Dublin, Ireland.
+The date of the venue is 01/31/2020.
+
+The venue is The O2.
+The location of the venue is London, United Kingdom.
+The date of the venue is 02/02/2020.
+
+The venue is The SSE Arena Wembley.
+The location of the venue is London, United Kingdom.
+The date of the venue is 02/03/2020.
+
+The venue is SSE Hydro.
+The location of the venue is Glasgow, United Kingdom.
+The date of the venue is 02/05/2020.
+
+The venue is Manchester Arena.
+The location of the venue is Manchester, United Kingdom.
+The date of the venue is 02/06/2020.
+
+The venue is Lotto Arena.
+The location of the venue is Antwerpen, Belgium.
+The date of the venue is 02/08/2020.
+
+The venue is Mercedes-Benz Arena.
+The location of the venue is Berlin, Germany.
+The date of the venue is 02/10/2020.
+
+The venue is Lanxess Arena.
+The location of the venue is Köln, Germany.
+The date of the venue is 02/11/2020.
+
+The venue is Hallenstadion.
+The location of the venue is Zürich, Switzerland.
+The date of the venue is 02/13/2020.
+
+The venue is Palau Sant Jordi.
+The location of the venue is Barcelona, Spain.
+The date of the venue is 02/17/2020.
+
+The venue is SUD DE FRANCE ARENA.
+The location of the venue is Pérols, France.
+The date of the venue is 02/18/2020.
+
+The venue is Ziggo Dome.
+The location of the venue is Amsterdam, Netherlands.
+The date of the venue is 02/20/2020.
+
+The venue is AccorHotels Arena.
+The location of the venue is Paris, France.
+The date of the venue is 02/22/2020.
+
+The venue is Mediolanum Forum.
+The location of the venue is Assago, Italy.
+The date of the venue is 02/14/2020.
+
+The venue is Wizin Center.
+The location of the venue is Madrid, Spain.
+The date of the venue is 02/16/2020.
+
+node liri.js spotify-this-song hello 
+Artist(s): Andrew Rannells
+The song's name: Hello!
+Preview link: https://p.scdn.co/mp3-preview/6048fb830712558ff5f966949874e9fb4ff6bc0b?cid=fcdfd4553f0d4f7baf813cb1be33d054
+Album: The Book Of Mormon (Original Broadway Cast Recording)
+
+node liri.js movie-this star wars
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+imdb Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+node liri.js movie-this the birth of a nation
+Title: The Birth of a Nation
+Year: 1915
+imdb Rating: 6.6
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: N/A
+Plot: The Stoneman family finds its friendship with the Camerons affected by the Civil War, both fighting in opposite armies. The development of the war in their lives plays through to Lincoln's assassination and the birth of the Ku Klux Klan.
+Actors: Henry B. Walthall, Lillian Gish, Mae Marsh, Miriam Cooper
+
